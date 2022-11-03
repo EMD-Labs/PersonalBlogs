@@ -31,3 +31,9 @@ by [Mohamed Afkar](https://github.com/afrak99)
 by [Thushanthan Amalanathan](https://github.com/thushaaanthan)
 
 [Native vs Hybrid vs Web] (https://medium.com/@showbi699176/native-vs-hybrid-vs-web-9a5e83a17eaf) by [Showbigha Murukamoorthy](https://github.com/Showbigha)
+
+[Types of software testing you should be aware](https://medium.com/@afkar99/types-of-software-testing-you-should-be-aware-2043893a1875)
+by [Mohamed Afkar](https://github.com/afrak99)
+
+[The basics of Javascript unit testing](https://medium.com/@afkar99/the-basics-of-javascript-unit-testing-7815d3ba3bc0)
+by [Mohamed Afkar](https://github.com/afrak99)
