@@ -29,3 +29,10 @@ by [Mohamed Afkar](https://github.com/afrak99)
 
 [Integrating the Coinbase crypto payment gateway with your web application](https://medium.com/@thushaamal93/integrating-the-coinbase-crypto-payment-gateway-with-your-web-application-c939edae1468)
 by [Thushanthan Amalanathan](https://github.com/thushaaanthan)
+
+[Types of software testing you should be aware](https://medium.com/@afkar99/types-of-software-testing-you-should-be-aware-2043893a1875)
+by [Mohamed Afkar](https://github.com/afrak99)
+
+[The basics of Javascript unit testing](https://medium.com/@afkar99/the-basics-of-javascript-unit-testing-7815d3ba3bc0)
+by [Mohamed Afkar](https://github.com/afrak99)
+
