@@ -31,4 +31,4 @@ by [Mohamed Afkar](https://github.com/afrak99)
 by [Thushanthan Amalanathan](https://github.com/thushaaanthan)
 
 [React: Formik Basic concept introduce
-](https://medium.com/@amalrafeek0513/react-formik-basic-concept-introduce-7a2b6b0974dd) by by [Amal](https://github.com/fathimaamal)
+](https://medium.com/@amalrafeek0513/react-formik-basic-concept-introduce-7a2b6b0974dd) by [Amal](https://github.com/fathimaamal)
