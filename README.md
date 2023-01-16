@@ -1,7 +1,7 @@
 # PersonalBlogs
 Personal repo maintain the blogs written by the employees of EMD-LABS 
 
-#Blog 2022
+# Blog 2022
 OSGi (Open Services Gateway initiative) fundamentals by Thushanthan Amalanathan
 
 Implementing SQL Transaction management with the Unit of Work pattern by Thushanthan Amalanathan
